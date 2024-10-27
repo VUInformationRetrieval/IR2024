@@ -1,4 +1,4 @@
-Code for Information Retrieval Course at VU Amsterdam 2023
+Code for Information Retrieval Course at VU Amsterdam 2024
 ==========================================================
 
 These are the assignments with introductory code and explanations in the form of
