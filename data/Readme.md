@@ -1,1 +1,1 @@
-Data directory with the files needed for the assignments, generated via "../make_data.ipynb"
+Due to the GitHub file size limit (25MB) please look on Canvas to download them
